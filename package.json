@@ -9,7 +9,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "alpinejs": "^3.14.8",
     "prettier": "^3.4.2",
     "vite": "^6.0.3"
+  },
+  "prettier": {
+    "singleQuote": true
   }
 }
